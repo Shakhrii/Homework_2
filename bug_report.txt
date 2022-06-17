@@ -1,0 +1,15 @@
+summary: Bug summary
+project: Project name
+component: Component name
+build_version: App version
+description
+	str: Sterps to result
+	result: Actual result
+	expected_result: Result from specification
+priority: Bug priority
+severity: Bug severity
+status: Bug status
+environment: Device and software
+author: Bug author
+assigned_to: Who is responsible for 
+addition: Additional information
